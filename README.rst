@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2Ftchannel-python.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2Ftchannel-python?ref=badge_shield)
+
 TChannel for Python
 ===================
 
@@ -22,3 +24,7 @@ A Python implementation of `TChannel`_.
 
 .. |pypi| image:: https://badge.fury.io/py/tchannel.svg
     :target: http://badge.fury.io/py/tchannel
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2Ftchannel-python.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2Ftchannel-python?ref=badge_large)
